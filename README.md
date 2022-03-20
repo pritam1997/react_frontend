@@ -1,4 +1,5 @@
 # Important Note React App name is [ front ]
+# CLone and run Django project i.e repo => backend => Then this app will work
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
