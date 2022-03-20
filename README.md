@@ -1,3 +1,4 @@
+# Important Note React App name is [ front ]
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
